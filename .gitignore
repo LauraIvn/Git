@@ -1,10 +1,21 @@
+# RStudio files and folders
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-# ignore tous les fichiers qui finissent par .html
-*.html
+# Mac OS
+.DS_Store
 
-# pareil pour les dossiers
-*_files/
+# Output
+/*.html
+/*.pdf
+/*.tex
+# Intermediate files
+/nul
+/*.aux
+/*.log
+/*.toc
+# Working folders
+/*_files/
+/*_cache/
