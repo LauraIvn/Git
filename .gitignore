@@ -19,3 +19,6 @@
 # Working folders
 /*_files/
 /*_cache/
+
+# le slash permet d'ignorer les .pdf (et autres) uniquement s'ils sont dans la racine du dossier de travail
+# utile si on veut ne pas ignorer des fichiers qu'on mettrait dans un dossier images
