@@ -1,6 +1,6 @@
 ---
 title: "Git"
-author: "Evil Laura"
+author: "Laura"
 format: html
 editor: visual
 ---
