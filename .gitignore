@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# ignore tous les fichiers qui finissent par .html
+*.html
+
+# pareil pour les dossiers
+*_files/
